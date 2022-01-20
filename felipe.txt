@@ -1,2 +1,4 @@
 Creando el documento de felipe
+Se resuelve conflicto dejando ambos cambios
 comentario agregado por angelica
+Empezando a generar los conflicto
