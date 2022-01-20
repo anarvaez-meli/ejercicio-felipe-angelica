@@ -1,2 +1,4 @@
 primer archivo angelica
 generando conflicto con archivo de angelica1
+esta línea va a generar un conflicto
+En esta linea se resuelve el conflicto
